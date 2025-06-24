@@ -1,0 +1,10 @@
+Alternatives*/
+Attachments/
+*.gz
+*.fls
+*.out
+*.log
+*latexmk
+*.aux
+*.swp
+.DS_Store
